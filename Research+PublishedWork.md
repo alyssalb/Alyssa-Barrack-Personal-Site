@@ -1,5 +1,6 @@
 # Research and published work
 My research areas of interest generally lie among and at the intersections of theater, film, and games. I am interested in theater-making in a digital world, and how to translate the ephemeral nature of live production to audiences who may not be able to be, well, live. Interests also include audience studies, absurdism, horror and adjacent genres, reflexivity, and the gamification of dramaturgy. In my head, none of these topics are unrelated.
+
 I have a couple of published pieces to link here as well:
 <ul>
   <li>Book Review of Antonin Artaud by Blake Morris for Ecumenica Journal: <a href="https://doi.org/10.5325/ecumenica.15.2.0205">Book Review</a></li>

@@ -16,4 +16,8 @@ Contact Me:
 alyssa.barrack@ucf.edu
 
 
-[Headshot] (<img src="Image of Alyssa.jpg" width="150" height="200">)
+<figure>
+    <img src="Image of Alyssa.jpg" width="150" height="200">
+         alt="Headshot">
+    <figcaption>Headshot of Alyssa.</figcaption>
+</figure>

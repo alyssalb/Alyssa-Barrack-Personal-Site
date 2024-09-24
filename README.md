@@ -18,6 +18,5 @@ alyssa.barrack@ucf.edu
 
 <figure>
     <img src="Image of Alyssa.jpg" width="150" height="200">
-         alt="Headshot">
     <figcaption>Headshot of Alyssa.</figcaption>
 </figure>

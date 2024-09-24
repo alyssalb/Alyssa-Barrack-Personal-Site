@@ -16,4 +16,4 @@ Contact Me:
 alyssa.barrack@ucf.edu
 
 ![Headshot](https://github.com/user-attachments/assets/2239e1df-ff85-4e2c-ad10-118f58fcfd6f)
-<img src="Image of Alyssa.jpg" width="200" height="100">
+<img src="Image of Alyssa.jpg" width="150" height="200">

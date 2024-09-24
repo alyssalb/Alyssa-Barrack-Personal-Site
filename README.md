@@ -15,5 +15,5 @@ Contact Me:
 [LinkedIn](https://www.linkedin.com/in/abarrack/)
 alyssa.barrack@ucf.edu
 
-![Headshot](https://github.com/user-attachments/assets/2239e1df-ff85-4e2c-ad10-118f58fcfd6f)
-<img src="Image of Alyssa.jpg" width="150" height="200">
+
+[Headshot] (<img src="Image of Alyssa.jpg" width="150" height="200">)

@@ -44,6 +44,12 @@
 - Spring 2024: **The Princess and the Pea (adapted by John O'Hara)**, *Eastern Florida State College*
     - Lighting Design Mentor
 
+## Professional Membership
+- 2021 - Present: **LMDA: Literary Managers and Dramaturgs of the Americas**
+
+## Volunteer 
+- Sept 2024: **Florida Digital Humanities Consortium Conference**, *University of Central Florida*, Setup Assistance
+
 ## Theatre Work
 - Fall 2024: **An Enemy of the People**, *Eastern Florida State College*
     - Lighting Design
@@ -93,9 +99,3 @@
     - Assistant PE
     - Set painter
     - Set dresser
-
-## Professional Membership
-- 2021 - Present: **LMDA: Literary Managers and Dramaturgs of the Americas**
-
-## Volunteer 
-- Sept 2024: **Florida Digital Humanities Consortium Conference**, *University of Central Florida*, Setup Assistance

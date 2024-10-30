@@ -170,9 +170,9 @@ dt {
 
 #header nav ul li a:focus,
 #header nav ul li a:hover {
-  outline: none;
-  background: linear-gradient(#457445, #1a3802);
-  box-shadow: none;
+  outline: none !important;
+  background: linear-gradient(#457445, #1a3802) !important;
+  box-shadow: none !important;
 }
 
 .button {

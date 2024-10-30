@@ -157,7 +157,7 @@ dt {
 
 #header nav ul li a {
   color: #f2f2d5;
-  border: 1px solid red;
+  border: none;
   background: transparent !important;
   border-radius: 3px;
   padding: 10px 12px;
@@ -169,16 +169,6 @@ dt {
   appearance: none;
   outline: none;
 }
-
-#header nav ul li a:focus,
-#header nav ul li a:hover {
-  outline: none !important;
-  background: transparent !important; 
-  box-shadow: none !important;
-  appearance: none !important;  /* Removes browser-specific styles */
-  border: 1px solid red !important;
-}
-
 
 .button {
   color: #f2f2d5;

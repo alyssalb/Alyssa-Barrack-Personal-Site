@@ -1,9 +1,2 @@
-layout: default
-title: Teaching Experience
+Alyssa might liken themself to a Bard co-classing in the Colleges of Lore and Creation. In this spirit, here is a simple choose-your-adventure Twine story to step through their reserach interests, theatrical interests, skills, and hobbies. 
 
-
-# Teaching Experience
-
-## Stagecraft THE2200
-- Beginning stagecraft course providing students with an overview and basic working knowledge of aspects of theatrical stagecraft including set design and construction, prop construction, stagehanding and deck work, and lighting and sound basics. 
-- Spring 2024

@@ -157,15 +157,17 @@ dt {
 
 #header nav ul li a {
   color: #f2f2d5;
-  border: 1px solid #1a3802;
-  background: linear-gradient(#1a3802, #020401);
+  border: 1px solid red;
+  background: transparent !important;
   border-radius: 3px;
   padding: 10px 12px;
   margin-top: 6px;
   font-size: 14px;
   display: inline-block;
-  text-align: center;
-  transition: background 0.3s,  box-shadow none;
+  text-align: center; 
+  box-shadow: none;
+  appearance: none;
+  outline: none;
 }
 
 #header nav ul li a:focus,

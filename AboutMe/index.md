@@ -2,4 +2,3 @@ Alyssa might liken themself to a Bard co-classing in the Colleges of Lore and Cr
 
 ## [About Me Twine Game](https://alyssalb.github.io/AboutMeGame/) 
 
-<a href="<a href="https://alyssalb.github.io/AboutMeGame/" target="_blank">About Me Twine Game</a>

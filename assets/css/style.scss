@@ -132,7 +132,7 @@ dt {
   height: 60px;
   width: 100%;
   position: fixed;
-  background: #457445;
+  background: linear-gradient(#1a3802, #020401);
   border-bottom: 4px solid #020401;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
 }
@@ -175,4 +175,21 @@ dt {
   background: linear-gradient(#457445, #1a3802);
   border-color: #1a3802;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0);
+}
+
+.button {
+  color: #f2f2d5;
+  background: linear-gradient(#457445, #1a3802);
+  border: 1px solid #020401;
+  border-radius: 3px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  transition: background 0.3s, box-shadow 0.3s;
+  display: inline-block;
+}
+
+.button:hover {
+  background: linear-gradient(#1a3802, #020401);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }

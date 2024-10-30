@@ -165,13 +165,14 @@ dt {
   font-size: 14px;
   display: inline-block;
   text-align: center;
-  transition: background 0.3s, box-shadow 0.3s;
+  transition: background 0.3s,  box-shadow none;
 }
 
+#header nav ul li a:focus,
 #header nav ul li a:hover {
+  outline: none;
   background: linear-gradient(#457445, #1a3802);
-  border-color: #1a3802;
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0);
+  box-shadow: none;
 }
 
 .button {

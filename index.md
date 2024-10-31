@@ -10,7 +10,8 @@ alyssa.barrack@ucf.edu
 - [Howlround Theatre Commons](https://howlround.com/)
 - [Fangoria](https://www.fangoria.com/)
 - [Everand](https://www.everand.com/)
-- 
+- [New Play Exchange](https://newplayexchange.org/get-started)
+- [Event Safety Alliance](https://eventsafetyalliance.org/)
 
 <figure>
     <img src="Image of Alyssa.jpg" width="150" height="200">

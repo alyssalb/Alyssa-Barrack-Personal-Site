@@ -40,7 +40,7 @@
 ## Teaching
 - Adjunct at Daytona State College
     - Spring 2024: THE 2200 Stagecraft
-    - Fall 20224: Workshops for upcoming college students
+    - Fall 2024: Workshops for upcoming college students
 - Spring 2024: **The Princess and the Pea (adapted by John O'Hara)**, *Eastern Florida State College*
     - Lighting Design Mentor
 

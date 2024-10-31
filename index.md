@@ -1,6 +1,6 @@
 ## Welcome, well met!
 
-Alyssa Barrack is a PhD student in Texts and Technology at UCF and an enthusiastic event manager and theater artist. Alyssa holds an MA in Interdisciplinary Studies (focus on audience studies in film, theatre, and video games) from UCF, a BA in Theater Arts from USF, and a BA in Professional Writing, Rhetoric, and Technology from USF.  They have a large collection of varied interest personal, professional, and academic (some of which can be seen here), and are friendly and open to conversation and collaboration - see contact information below! 
+Alyssa Barrack is a PhD student in Texts and Technology at UCF and an enthusiastic event manager and theater artist. Alyssa holds an MA in Interdisciplinary Studies (focus on audience studies in film, theatre, and video games) from UCF, a BA in Theater Arts from USF, and a BA in Professional Writing, Rhetoric, and Technology from USF.  They have a large collection of varied personal, professional, and academic interests (some of which can be seen here), and are friendly and open to conversation and collaboration - see contact information below! 
 
 ### Contact Me:
 [LinkedIn](https://www.linkedin.com/in/abarrack/)
